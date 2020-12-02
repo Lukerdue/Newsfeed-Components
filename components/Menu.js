@@ -30,8 +30,13 @@ function menuMaker(items){
 
   menu.classList.add('menu');
 
-  button.addEventListener('click', function(){
+  button.addEventListener('click', function(e){
+    e.stopPropagation();
     menu.classList.toggle('menu--open');
+  })
+
+  window.addEventListener('click', function(){
+    menu.classList.remove('menu--open');
   })
 
   return menu;
