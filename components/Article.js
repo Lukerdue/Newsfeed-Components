@@ -86,6 +86,23 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'The New Hot, Up and Coming Developer Eveyone is Talking About',
+    date: 'August 16th, 2020',
+    firstParagraph: `Frightened people. Give me a Dalek any day. No. You're too short and bossy, and your nose is all funny. Thank you, Strax. 
+    And if I'm ever in need of advice from a psychotic potato dwarf, you'll certainly be the first to know. 
+    There's something that doesn't make sense. 
+    Let's go and poke it with a stick. Brave heart, Clara. You are the only mystery worth solving. 
+    Please tell me I didn't get old. Anything but old. I was young! Oh... is he grey? Father Christmas. Santa Claus. Or, as I’ve always known him, Jeff.`,
+    secondParagraph: `You are the only mystery worth solving. I never know why. I only know who. Look at me. No plans, no backup, no weapons worth a damn. 
+    Oh, and something else I don't have: anything to lose. 
+    So, if you're sitting up there with your silly little spaceships and your silly little guns and you've any plans on taking the Pandorica tonight; just remember who's standing in your way. 
+    Remember every black day I ever stopped you and then, and then, do the smart thing. Let somebody else try first. Bow ties are cool.
+    `,
+    thirdParagraph: `Yeah, I came first in jiggery pokery, what about you? Your wish is my command. But be careful what you wish for. The past is another country. 
+    1987's just the Isle of Wight. Do you wanna come with me? 'Cause if you do, then I should warn you — you're gonna see all sorts of things. Ghosts from the past. Aliens from the future. 
+    The day the Earth died in a ball of flame.It won't be quiet, it won't be safe, and it won't be calm. But I'll tell you what it will be: The trip of a lifetime! I think you need a doctor.`
   }
 ];
 
